@@ -1,0 +1,6 @@
+usertrap
+the value is 0x7, it holds the next syscall number.
+the CPU was previously in user mode.
+s2
+the kernel tried to read data that does not exist in the kernel address space.
+name is initcode, pid is 1
